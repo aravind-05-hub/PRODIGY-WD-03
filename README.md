@@ -21,13 +21,6 @@ CSS3 – For styling the interface
 
 JavaScript (Vanilla) – For implementing game logic and interactivity
 
-🖥️ Live Preview
-You can view and play the game here:
-Live Demo (Replace with GitHub Pages link or hosting URL)
-
-📸 Screenshot
-
-(Optional: Add a screenshot of the game in your repo)
 
 🧠 How It Works
 The game initializes a 3x3 grid dynamically.
